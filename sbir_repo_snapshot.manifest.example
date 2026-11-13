@@ -1,0 +1,5 @@
+# One row per repo pair: source_url,target_url[,snapshot_branch]
+# snapshot_branch is optional; default is snapshot-<basename-of-source-repo>
+#
+# https://github.com/slingshot-aerospace-inc/simulation-connector.git,https://github.com/slingshot-aerospace-inc/SBIR-simulation-connector.git
+# https://github.com/slingshot-aerospace-inc/load-testing-service.git,https://github.com/slingshot-aerospace-inc/SBIR-load-testing-service.git
